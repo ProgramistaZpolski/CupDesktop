@@ -1,0 +1,4 @@
+﻿CupPage Desktop 1.0.0
+ChangeLog:
+1.0.0
+Orginalne wydanie
