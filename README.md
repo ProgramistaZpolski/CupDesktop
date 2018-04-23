@@ -1,1 +1,2 @@
-Taki fajny program który nazywa się CupDesktop
+Co umożliwia program?
+To jest CupPage tyle że na desktopa...
